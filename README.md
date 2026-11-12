@@ -30,7 +30,7 @@ Python | C | Verilog | Arduino | ESP32 | OpenCV | NumPy | MATLAB | Vivado | GitH
 To develop innovative engineering solutions and grow as an Electronics and Embedded Systems Engineer.
 
 ### 📫 Connect with Me
-- GitHub: https://github.com/CHIRANTHSATHISH
+- GitHub: https://github.com/CHIRANTHSATHEESH
 
 ---
 ⭐ Thanks for visiting my profile!
