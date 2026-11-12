@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Chiranth 👋
 
-<!--
-**CHIRANTHSATHISH/CHIRANTHSATHISH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+I'm an ECE student passionate about building practical engineering projects and exploring emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Interests
+- Robotics and Embedded Systems
+- VLSI Design and Verilog HDL
+- FPGA Development
+- Python Programming
+- Digital Signal Processing
+- AI and Machine Learning
+
+### 🚀 Projects
+- Fingerprint Image Analysis using FFT – Python, OpenCV, NumPy
+- Line Follower Robot – Arduino, PID Control and IR Sensors
+- FPGA and RTL Design – Verilog and Digital Electronics
+
+### 🛠️ Tools & Technologies
+Python | C | Verilog | Arduino | ESP32 | OpenCV | NumPy | MATLAB | Vivado | GitHub
+
+### 📚 Currently Learning
+- RTL Design and Verification
+- FPGA Development
+- Embedded Systems
+- Digital Image Processing
+
+### 🎯 Career Goal
+To develop innovative engineering solutions and grow as an Electronics and Embedded Systems Engineer.
+
+### 📫 Connect with Me
+- GitHub: https://github.com/CHIRANTHSATHISH
+
+---
+⭐ Thanks for visiting my profile!
